@@ -1,4 +1,4 @@
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import Post from "./Post";
 import { Link } from "react-router-dom";
 import ProfilePreview from "../components/ProfilePreview";
