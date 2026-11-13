@@ -1,5 +1,5 @@
 import { useParams } from "react-router";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import "../styles/Posts.css"
 
 function Post() {
